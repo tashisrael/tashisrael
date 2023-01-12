@@ -27,6 +27,11 @@
 ![](https://img.shields.io/badge/tool-Webhint-green)
 ![](https://img.shields.io/badge/editor-VSCode-green)
 
+<div align="end">
+<p><b>Visitors Count</b></p>  
+<img src="https://profile-counter.glitch.me/{tashisrael}/count.svg" />
+</div>
+
 
 <!--
 **tashisrael/tashisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
