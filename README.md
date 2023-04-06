@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 😃 I'm Tashobya Israel
-- 👀 I’m interested in developing software applications to solve real world problems
-- 🌱 I’m constantly learning new programming languages inorder to gain more knowledge on Software Development and web development.
+- 👀 I’m interested in developing software applications to solve real-world problems
+- 🌱 I’m constantly learning new programming languages to gain more knowledge on Software Development and web development.
 - 💞️ I’m looking to collaborate in the building of web & mobile applications plus computer networking.
-- 📫Open and Available for work.
-- 👯My hobbies are listening to football, coding, reading books and playing video games
-- 🚀On course to being a Full-stack web developer with Microverse inc.
+- 📫 Open and Available for work.
+- 👯 My hobbies are listening to football, coding, reading books, and playing video games
+- 🚀 On course to being a Full-stack web developer with Microverse Inc.
 - 📫 You can reach me via mail: tashisrael04@gmail.com
 
 
