@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate in the building of web & mobile applications plus computer networking.
 - 📫 Open and Available for work.
 - 👯 My hobbies are listening to football, coding, reading books, and playing video games
-- 🚀 On course to being a Full-stack web developer with Microverse Inc.
+- 🚀 Full-stack web developer from Microverse Inc.
 - 📫 You can reach me via mail: tashisrael04@gmail.com
 
 
